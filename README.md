@@ -1,4 +1,4 @@
-# Imagine-Cup-SkyShield
+# SkyShield
 
 <img width="748" height="779" alt="SkyShield" src="https://github.com/user-attachments/assets/60714fae-634f-4611-afd9-a92e2448ce72" />
 
