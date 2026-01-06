@@ -1,5 +1,8 @@
 # Imagine-Cup-SkyShield
 
+<img width="748" height="779" alt="SkyShield" src="https://github.com/user-attachments/assets/60714fae-634f-4611-afd9-a92e2448ce72" />
+
+
 🔐 SkyShield — AI-Powered Security Alert Assistant (Azure)
 
 SkyShield is a lightweight, AI-powered security assistant built on Microsoft Azure that helps students, junior researchers, and small security teams understand, prioritize, and respond to security alerts faster.
